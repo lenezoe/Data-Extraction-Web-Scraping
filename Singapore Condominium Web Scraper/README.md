@@ -1,7 +1,7 @@
 # SCRAPPING OF SINGAPORE CONDOMINIUM NAMES
 
 ## Files
-There are 2 files in this repo:
+There are 2 files available:
 1) Web Scraper for Condo Names.ipynb - Extracting a listing of all condominium names on 99.co
 2) Geocoding of SG Condos.ipynb - Extracting the postal and latitude/longitude coordinates of the condominiums using the OneMap API. 
 
